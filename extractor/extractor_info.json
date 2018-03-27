@@ -1,0 +1,27 @@
+{
+  "@context": "http://clowder.ncsa.illinois.edu/contexts/extractors.jsonld",
+  "name": "resume-extractor",
+  "version": "2.0",
+  "description": "It extracts resume in PDF format and run resume-categorizer.",
+  "author": "Joseph Cho <mgjo5899@gmail.com>",
+  "contributors": [],
+  "contexts": [
+    {
+      "lines": "http://clowder.ncsa.illinois.edu/metadata/ncsa.wordcount#lines",
+      "words": "http://clowder.ncsa.illinois.edu/metadata/ncsa.wordcount#words",
+      "characters": "http://clowder.ncsa.illinois.edu/metadata/ncsa.wordcount#characters"
+    }
+  ],
+  "repository": {
+    "repType": "git",
+    "repUrl": "https://opensource.ncsa.illinois.edu/stash/scm/cats/pyclowder.git"
+  },
+  "process": {
+    "file": [
+						"application/pdf"
+    ]
+  },
+  "external_services": [],
+  "dependencies": [],
+  "bibtex": []
+}
