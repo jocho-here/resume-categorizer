@@ -37,6 +37,9 @@ Installation
   - Set up MongoDB
     - Follow the [website](https://docs.mongodb.com/manual/tutorial/) for installation
     - To let mongodb server to start automatically, `systemctl enable mongod.service`
+7. Get your Google credential and perform
+  - `echo "path_to_json_google_crendential" >> ~/.bashrc`
+  - Be careful not to use ~ for home directory; write out the full directory as it would be shown in `pwd`
 
 Work Flow
 ------------
