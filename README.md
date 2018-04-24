@@ -64,14 +64,6 @@ Tips for optimal results
   - Try to upload the first page (or the one page that matters)
   - Currently, this software does not support multiple pages
 
-TODO
------------
-1. Optimizations on locating names
-2. Multi-threading application..?
-3. Use Docker for Clowder and StanfordCoreNLP
-4. Debug for email extraction
-5. Python template for data extraction on resumes (e.g. education, GPA, etc...)
-
-Issues
+Issues while installation
 -----------
 - What was up with SMTP server problem when running Clowder? (Fixed with [this](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-16-04))
