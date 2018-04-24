@@ -54,10 +54,24 @@ Work Flow
 6. Sit back and wait for the engine to categorize all the resumes
 7. Once the categorizing is over, you will see a link on the page of the uploaded resume stack
 
+Tips for optimal results
+-----------
+1. Scan is preferred than photos taken by phone cameras
+  - Tested on some phone camera PDFs and many of them were distorted
+  - Scanning makes it easier for OCR engine to perform optimally
+2. Scan just the first pages
+  - There are some resumes that are more than one page (even Elen Musk has [one page resume](https://amp.businessinsider.com/images/5711368252bcd05b008bd03b-1536-2173.png))
+  - Try to upload the first page (or the one page that matters)
+  - Currently, this software does not support multiple pages
+
 TODO
 -----------
 1. Optimizations on locating names
-2. Multi-threading
-3. Use Docker
-4. Add more details on Clowder installation and set up since it's complicated (or even ease that complication?)
-5. What was up with SMTP server problem? (Fixed with [this](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-16-04))
+2. Multi-threading application..?
+3. Use Docker for Clowder and StanfordCoreNLP
+4. Debug for email extraction
+5. Python template for data extraction on resumes (e.g. education, GPA, etc...)
+
+Issues
+-----------
+- What was up with SMTP server problem when running Clowder? (Fixed with [this](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-16-04))
