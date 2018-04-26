@@ -274,11 +274,12 @@ def init_services():
   sf_client = StanfordCoreNLP(stanford_host, stanford_port, memory='8g')
 
 # Starting Point of the program
-def start(tmp_name, pdf_id_dict):
+def start(tmp_name, pdf_id_dict, local_ip):
   global curr_dir
   global temp_name
 
-  link = 'http://127.0.0.1:9000/files/'
+  link = 'http://' + local_ip + ':9000/files/'
+  #link = 'http://127.0.0.1:9000/files/'
 
   # Directory where resumes are located at
   temp_name = tmp_name

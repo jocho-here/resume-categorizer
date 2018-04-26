@@ -20,7 +20,6 @@ echo Created PNG folder
 for pdf_f in *; do
 	if [[ "$pdf_f" = *".pdf" ]]; then
 		convert -flatten -density 500 $pdf_f -quality 100 ../png/${pdf_f%.*}.png
-#		convert -density 500 $pdf_f ../png/${pdf_f%.*}.jpeg
 		echo Converted $pdf_f to PNG
 	fi
 done

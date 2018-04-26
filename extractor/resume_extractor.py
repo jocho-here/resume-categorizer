@@ -2,6 +2,7 @@
 
 import logging
 import subprocess
+import socket
 import os
 
 import pyclowder.files
@@ -24,6 +25,19 @@ class WordCount(Extractor):
     # setup logging for the exctractor
     logging.getLogger('pyclowder').setLevel(logging.DEBUG)
     logging.getLogger('__main__').setLevel(logging.DEBUG)
+
+  # returns local ip
+  def get_ip(self):
+    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    try:
+      s.connect(('10.255.255.255', 1))
+      local_ip = s.getsockname()[0]
+    except:
+      local_ip = '127.0.0.1'
+    finally:
+      s.close()
+    
+    return local_ip 
 
   def process_message(self, connector, host, secret_key, resource, parameters):
     # Process the file and upload the results
@@ -71,14 +85,15 @@ class WordCount(Extractor):
       pdf_id_dict[pdf_file.replace('.png', '')] = f_id
 
     # 4. Run analyzer
-    analyzer.start(name, pdf_id_dict)
+    myip = self.get_ip()
+    analyzer.start(name, pdf_id_dict, myip)
     print("Finished analyzing the resumes")
 
     # Upload result excel file
     new_f_id = pyclowder.files.upload_to_dataset(connector, host, secret_key, resource['parent']['id'], 'resources/' + name + '/' + name + '.xlsx')
 
     # Attach excel link
-    result = ['http://127.0.0.1:9000/files/' + str(new_f_id)]
+    result = ['http://' + myip + ':9000/files/' + str(new_f_id)]
     metadata = self.get_metadata(result, 'file', file_id, host)
     f_id = pyclowder.files.upload_metadata(connector, host, secret_key, file_id, metadata)
 
