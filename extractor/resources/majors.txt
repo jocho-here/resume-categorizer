@@ -1,181 +1,172 @@
+Accountancy
+ACES
 ACES Undeclared
+Acting
+Actuarial Science
+Advertising
+Aerospace Engineering
+African American Studies
 Agri-Accounting
 Agribusiness, Markets & Management
 Agricultural & Biological Engineering
-Agricultural & Consumer Economics
+Agricultural & Biological Engineering
 Agricultural Communications
+Agricultural & Consumer Economics
 Agricultural Leadership Education
 Agricultural Science Education
 Agroecology
 Animal Sciences
+Anthropology
+Architectural Studies
+Art Education (K-12)
+Art History
+Asian American Studies
+Astronomy
+Atmospheric Sciences
+Audiology
+Biochemistry
+Bioengineering
 Biological Sciences (Crop Sciences)
+Biology
 Business Administration
+Chemical & Biomolecular Engineering
+Chemistry
 Child & Adolescent Development
+Civil Engineering
+Classical Archaeology
+Classical Civilization
+Classics
+Communication
+Community Health
 Companion Animal & Equine Science
+Comparative & World Literature
+Computer Engineering
+Computer Science
+Computer Science & Anthropology
+Computer Science & Astronomy
+Computer Science & Chemistry
 Computer Science & Crop Sciences
+Computer Science & Linguistics
 Consumer Economics & Finance
+Costume Design & Technology
+Crafts: Metals/Jewelry
+Creative Writing
 Crop Agribusiness
-Crop Sciences
 Crops
+Crop Sciences
+Cultural Linguistic Diversity
+Dance
 Dietetics
+Early Childhood Education (Birth-Grade 2)
+Earth, Society & Environmental Sustainability
+East Asian Languages & Cultures
+Economics
+Electrical Engineering
+Elementary Education (Grades 1-6)
+Engineering Mechanics
+English
+Entrepreneurship
 Environmental Economics & Policy
 Family Studies
 Farm Management
+Finance
 Finance in Agri-Business
 Financial Planning
 Fish & Wildlife Conservation
 Food Animal Production and Management
 Food Science
 Food Science & Human Nutrition
+French
+Gender & Women's Studies
+Geography & Geographic Information Science
+Geology
+Germanic Studies
 Global Change & Landscape Dynamics
-Horticultural Food Systems
-Hospitality Management
-Human Development & Family Studies
-Human Dimensions of the Environment
-Human Nutrition
-Human Resources
-Natural Resources & Environmental Sciences
-Plant Biotechnology & Molecular Biology
-Plant Protection
-Policy, International Trade & Development
-Public Policy & Law
-Resource Conservation & Restoration Ecology
-Science, Pre-Veterinary & Medical
-Secondary Education: Agricultural
-Technical Systems Management
-Audiology
-Community Health
-Cultural Linguistic Diversity
+Global Studies
+Graphic Design
+Greek
 Health and Aging
 Health Behavior Change
 Health Diversity
 Health Education & Promotion
 Health Planning & Administration
 Health Sciences, Interdisciplinary
-Kinesiology
-Kinesiology - Physical Education (K-12)
-Neuroscience of Communication
-Recreation Management
-Recreation, Sport & Tourism
-Rehabilitation Studies
-Speech & Hearing Science
-Speech Language Pathology
-Sport Management
-Teacher Education: Kinesiology - Physical Education (K-12)
-Tourism Management
-Accountancy
-Entrepreneurship
-Finance
+History
+History of Art
+Horticultural Food Systems
+Hospitality Management
+Human Development & Family Studies
+Human Dimensions of the Environment
+Human Nutrition
+Human Resources
+Industrial Design
+Industrial Engineering
 Information Systems
 Information Technology
+Integrative Biology
+Interdisciplinary Studies
 International Business
+Italian
+Jazz Performance
+Jewish Studies *
+Journalism
+Kinesiology
+Kinesiology - Physical Education (K-12)
+Landscape Architecture
+Latin
+Latina/Latino Studies
+Latin American Studies
+Learning & Education Studies
+Lighting Design
+Linguistics
 Management
 Marketing
-Operations Management
-Supply Chain Management
-Early Childhood Education (Birth-Grade 2)
-Elementary Education (Grades 1-6)
-Learning & Education Studies
-Middle Grades Education (Grades 5-8)
-Special Education
-Aerospace Engineering
-Agricultural & Biological Engineering
-Bioengineering
-Civil Engineering
-Computer Engineering
-Computer Science
-Electrical Engineering
-Engineering Mechanics
-Industrial Engineering
 Materials Science & Engineering
+Mathematics
+Mathematics & Computer Science
+MBA
 Mechanical Engineering
-Nuclear, Plasma & Radiological Engineering
-Physics, Engineering
-Systems Engineering and Design
-Acting
-Architectural Studies
-Art Education (K-12)
-Costume Design & Technology
-Crafts: Metals/Jewelry
-Dance
-Graphic Design
-History of Art
-Industrial Design
-Jazz Performance
-Landscape Architecture
-Lighting Design
+Media & Cinema Studies
+Medieval Civilization
+Middle Grades Education (Grades 5-8)
+Molecular & Cellular Biology
 Music
 Music Composition Theory
 Music Education (K-12)
 Music Instrumental Performance
+Musicology
 Music Open Studies
 Music Voice Performance
-Musicology
+Natural Resources & Environmental Sciences
+Neuroscience of Communication
 New Media
+Nuclear, Plasma & Radiological Engineering
+Nursing
+Operations Management
 Painting
-Photography
-Scenic Design
-Scenic Technology
-Sculpture
-Sound Design & Technology
-Stage Management
-Teacher Education: Art (K-12)
-Theatre
-Theatre Studies
-Urban Studies & Planning
-Actuarial Science
-African American Studies
-Anthropology
-Art History
-Asian American Studies
-Astronomy
-Atmospheric Sciences
-Biochemistry
-Biology
-Chemical & Biomolecular Engineering
-Chemistry
-Classical Archaeology ^
-Classical Civilization ^
-Classics
-Communication
-Comparative & World Literature
-Computer Science & Anthropology
-Computer Science & Astronomy
-Computer Science & Chemistry
-Computer Science & Linguistics
-Creative Writing
-Earth, Society & Environmental Sustainability
-East Asian Languages & Cultures
-Economics
-English
-French
-Gender & Women&#39;s Studies
-Geography & Geographic Information Science
-Geology
-Germanic Studies
-Global Studies
-Greek ^
-History
-Integrative Biology
-Interdisciplinary Studies
-Italian
-Jewish Studies *
-Latin ^
-Latin American Studies
-Latina/Latino Studies
-Linguistics
-Mathematics
-Mathematics & Computer Science
-Medieval Civilization *
-Molecular & Cellular Biology
 Philosophy
+Photography
 Physics
+Physics, Engineering
+Plant Biotechnology & Molecular Biology
+Plant Protection
+Policy, International Trade & Development
 Political Science
 Portuguese
 Psychology
+Public Policy & Law
+Recreation Management
+Recreation, Sport & Tourism
+Rehabilitation Studies
 Religion
+Resource Conservation & Restoration Ecology
 Russian, East European & Eurasian Studies
+Scenic Design
+Scenic Technology
+Science, Pre-Veterinary & Medical
+Sculpture
 Secondary Education
+Secondary Education: Agricultural
 Secondary Education: Biology
 Secondary Education: Chemistry
 Secondary Education: Earth Science
@@ -184,19 +175,30 @@ Secondary Education: Mathematics
 Secondary Education: Physics
 Secondary Education: Social Studies
 Slavic Studies
+Social Work
 Sociology
+Sound Design & Technology
 Spanish
+Special Education
+Speech & Hearing Science
+Speech Language Pathology
+Sport Management
+Stage Management
 Statistics
 Statistics & Computer Science
+Supply Chain Management
+Systems Engineering and Design
+Teacher Education: Art (K-12)
 Teacher Education: French (K-12)
 Teacher Education: German (K-12)
 Teacher Education: Japanese (K-12)
+Teacher Education: Kinesiology - Physical Education (K-12)
 Teacher Education: Latin (K-12)
 Teacher Education: Mandarin Chinese (K-12)
 Teacher Education: Spanish (K-12)
-Advertising
-Journalism
-Media & Cinema Studies
-Nursing
+Technical Systems Management
+Theatre
+Theatre Studies
+Tourism Management
 Undeclared
-Social Work
+Urban Studies & Planning
