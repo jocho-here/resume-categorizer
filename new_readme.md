@@ -11,3 +11,13 @@
 ## General Plan
 - Need to have solution ready to be used by user with few commands
 - Dockerize!
+
+## Things to think about
+- Find a way to accept file from GUI
+  - Replace RDBMS.  This is not a good solution.
+- Which NLP to use?
+  - StanfordNLP
+    - Conservative, but industrial proven project
+  - spaCy
+    - New player!  Very hot project
+- Used to use Google NLP to identify which text is what.  Hopefully there's a way to do this without Google :(
