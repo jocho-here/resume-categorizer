@@ -7,6 +7,8 @@
 3. Install tesseract (for pytesseract)
 4. Install python library pillow (for pytesseract)
 5. Install python library pytesseract
+6. Install python library spacy
+7. Install `en_core_web_sm` from spacy
 
 ## General Plan
 - Need to have solution ready to be used by user with few commands

@@ -9,6 +9,7 @@ verify_ssl = true
 pillow = "*"
 pytesseract = "*"
 pdf2image = "*"
+spacy = "*"
 
 [requires]
 python_version = "3.7"
