@@ -15,9 +15,17 @@ So I decided to start from scratch.  My goal is to make this repo usable with fe
 6. Install python library spacy
 7. Install `en_core_web_sm` from spacy
 
-## General Plan
+## General Idea
 - Need to have solution ready to be used by user with few commands
 - Dockerize!
+
+## Process
+1. PDF to JPEG
+- poppler & pdf2image
+2. OCR on JPEG
+- pytesseract
+- This takes quite time.  I could use async job for this work.
+3. Analyse the resulting text and populate the CSV file with found elements
 
 ## Things to think about
 - Find a way to accept file from GUI
