@@ -1,3 +1,5 @@
+*.jpg
+
 .DS_Store
 clowder*
 stanford-corenlp*
