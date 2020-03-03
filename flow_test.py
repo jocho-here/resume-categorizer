@@ -38,6 +38,7 @@ phone_matcher.add("PHONE_NUMBER", patterns)
 matches = phone_matcher(doc)
 
 phone_numbers = []
+
 for match_id, start, end in matches:
     span = doc[start:end]
     phone_numbers.append(span.text)
