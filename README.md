@@ -14,6 +14,7 @@ So I decided to start from scratch.  My goal is to make this repo usable with fe
 5. Install python library pytesseract
 6. Install python library spacy
 7. Install `en_core_web_sm` from spacy
+8. Install `Django`
 
 ## General Idea
 - Need to have solution ready to be used by user with few commands
@@ -30,9 +31,4 @@ So I decided to start from scratch.  My goal is to make this repo usable with fe
 ## Things to think about
 - Find a way to accept file from GUI
   - Replace RDBMS.  This is not a good solution.
-- Which NLP to use?
-  - StanfordNLP
-    - Conservative, but industrial proven project
-  - spaCy
-    - New player!  Very hot project
 - Used to use Google NLP to identify which text is what.  Hopefully there's a way to do this without Google :(
